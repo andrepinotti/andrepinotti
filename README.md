@@ -19,5 +19,5 @@
 
 <h3>Sobre mim</h3>
 
-Atualmente cursando o quarto período de Sistemas de Informação no IFSP câmpus Votuporanga, sou apaixonado por tecnologia,
+Atualmente cursando o quinto período de Sistemas de Informação no IFSP câmpus Votuporanga, sou apaixonado por tecnologia,
 além dos estudos da faculdade realizo diversos projetos e estudos por fora através de cursos.
